@@ -1,1 +1,2 @@
-![Pixel Animation](https://raw.githubusercontent.com/Bn5PS/Bn5PS/main/download.gif)
+<!-- In your README.md -->
+<img src="./download.gif" width="200" alt="animation">
